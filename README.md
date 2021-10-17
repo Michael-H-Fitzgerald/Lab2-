@@ -13,7 +13,7 @@ Then create a source directory
 Then create run the catkin_make command
 ```catkin_make```
 After create the dev env  
-```source devel/setup.bash
+```source devel/setup.bash```
 Finally run these last two commands 
 ```cd src```
 ```catkin_create_pkg navvis_description rviz urdf xacro sensor_msgs geometry_msg```
